@@ -1,6 +1,7 @@
 import type { Config } from "tailwindcss";
 import scrollbarHide from 'tailwind-scrollbar-hide';
 
+
 const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
